@@ -1,4 +1,5 @@
 print("hello git")
 print("second line")
 print("feature branch")
-print("edited on github")
+print("edited on master")
+print("edited on conflict branch")
